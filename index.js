@@ -2,7 +2,7 @@
 
 class AtomicPack {
   test() {
-    console.log('Hello, World!');
+    console.log('Hello, Atomic Pack!');
   }
 }
 
