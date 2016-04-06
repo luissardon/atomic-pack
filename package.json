@@ -1,0 +1,27 @@
+{
+  "name": "atomic-pack",
+  "version": "0.0.1",
+  "description": "Packaging of Components (Structure, Styles and Functionality) Under the Atomic Design System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissardon/atomic-pack.git"
+  },
+  "keywords": [
+    "atomic",
+    "design",
+    "components",
+    "packaging",
+    "design",
+    "system"
+  ],
+  "author": "Luis Sardon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luissardon/atomic-pack/issues"
+  },
+  "homepage": "https://github.com/luissardon/atomic-pack#readme"
+}
